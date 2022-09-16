@@ -21,9 +21,9 @@ $(document).ready(function() {
 
 		// calculation required for the result and stored in a local variable
 		var result = (Salary * Percent)/ 100;
-		result = result.toFixed();  // the toFixed() method will round off the result in the nearest decimal by two places
+		result = result.toFixed(1);  // the toFixed() method will round off the result in the nearest decimal by two places
 		
 		// selected the span HTML tag and replaced the outcome
-		$("#amount").text('$'+ result);
+		$('#amount').text('$'+ result);
 	  });
 });
