@@ -20,24 +20,6 @@ $(document).ready(function () {
                this.department = department;
                }
        
-       updateContentItem(employeeId, employeeName, jobDesc, department){
-               if(this.employeeId == employeeId && employeeName && jobDesc && department){
-                   this.employeeId = employeeId;
-                   this.employeeName = employeeName;
-                   this.jobDesc = jobDesc;
-                   this.department = department;
-                   }
-       
-               }
-               toString(){
-               return $('#content-item-list').append(`<div class="content-item-wrapper">
-               <div id="content-item-${this.employeeId}">
-               <h2 class="employeeName">${this.employeeName}</h2>
-               <p class="jobDesc">${this.jobDesc}</p>
-               <div class="department">${this.department}</div>
-               </div>
-                </div>`);
-                }
             }
            
            let content = [
