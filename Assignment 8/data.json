@@ -1,0 +1,52 @@
+
+[{
+    "Movie_Num":"1",
+    "Role":"Hero",
+    "First_Name":"Aman",
+    "Last_Name":"Akan",
+    "Gender":"Male"
+   },
+   {
+    "Movie_Num":"2",
+    "Role":"Heroiene",
+    "First_Name":" Bally",
+    "Last_Name":"Boebee",
+    "Gender":"Female"
+  },
+  {
+    "Movie_Num":"3",
+    "Role":"Evil",
+    "First_Name":"Ziyan",
+    "Last_Name":"Zoe",
+    "Gender":"Male"
+   },
+{
+    "Movie_Num":"4",
+    "Role":"Father",
+    "First_Name":"Rak",
+    "Last_Name":"Rio",
+    "Gender":"Male"
+   },
+{
+    "Movie_Num":"5",
+    "Role":"Mother",
+    "First_Name":"Xvia",
+    "Last_Name":"Xo",
+    "Gender":"Female"
+   },
+{
+    "Movie_Num":"6",
+    "Role":"Brother",
+    "First_Name":"Jiyan",
+    "Last_Name":"Jim",
+    "Gender":"Male"
+   },
+{
+    "Movie_Num":"7",
+    "Role":"Sister",
+    "First_Name":"Maav",
+    "Last_Name":"Murry",
+    "Gender":"Female"
+   }
+
+]
